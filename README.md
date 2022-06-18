@@ -1,7 +1,7 @@
 # SPY-FrEE
 File Cloner Free Tools
 
-#Commands
+# Commands
 
 pkg update 
 
@@ -23,10 +23,10 @@ cd SPY-FrEE
 
 python spy.py 
 
-#Tnx
+# Tnx
 Tnx everyone to complete 0.5k in SPY-1x1 Page 💖
 
-#Paid Info
+# Paid Info
 
 If you wen't to buy paid tools 
 Contract me in whatsapp or Massager💖
