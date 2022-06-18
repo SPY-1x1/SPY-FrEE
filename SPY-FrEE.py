@@ -1,2 +1,10 @@
 import os
-print(" Tor nani re khali gor")
+print("😒 python spy.py run korte ki kosto hoy naki?")
+print(" 😒 valo hoiya jao pola pain valo hoiya jao😒")
+print("")
+print("")
+print(" 🙃 Jast Fun 🙃 ")
+print(" 🙃🖕🙃 ")
+
+
+
